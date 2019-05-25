@@ -13,7 +13,6 @@ QR-Code WebCam, es un Script desarrollado en Python con la funcionalidad de Leer
 
     - Python 2.7
     - Opencv - pip install opencv-python
-    - Zbar - pip install zbar
     - Numpy - pip install numpy
     - QRCode - pip install qrcode
 
